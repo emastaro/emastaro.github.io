@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://emastaro.github.io/sitemap.html.gz
+Sitemap: https://emastaro.github.io/app/sitemap.html.gz
+Sitemap: https://emastaro.github.io/assets/sitemap.html.gz
+Sitemap: https://emastaro.github.io/css/sitemap.html.gz
+Sitemap: https://emastaro.github.io/includes/sitemap.html.gz
+Sitemap: https://emastaro.github.io/item/sitemap.html.gz
+Sitemap: https://emastaro.github.io/src/sitemap.html.gz
